@@ -1,0 +1,270 @@
+JOURNEY INSTRUCTION MANUAL
+
+* Preface
+
+Pestilence and disease, famine and drought - all of these plague your
+land. But nothing is known of their cause, and hope is fading. A party
+is assembled to seek the aid of a distant Wizard in the faint hope that
+he can offer assistance. But the party is not heard from again and, in
+desperation, another party is sent, the one you are about to lead on a
+fateful Journey into the unknown.
+
+Whether your party meets the fate of its predecessors, or returns
+triumphant, is in your hands.  Your party of four is led by Bergon,
+a strong and fair man, and a carpenter by trade. The Wizard, Praxix,
+wise yet unpredictable, provides the party with knowledge of lore and
+magic. Esher, the well-respected (if somewhat curmudgeonly) physician, has
+also been asked to make the trek. Finally, Tag, apprentice food merchant, has
+agreed to tend to the party's provisions and make a diary of its adventures.
+
+In Journey, the decisions you make, for the party and its members, are
+woven into an epic tale of danger and mystery, of breathtaking beauty
+and heartbreaking loss, of desperate struggle and, finally, of ultimate
+triumph.  The tale is told by Tag, and the story of the Journey is seen
+through his eyes.
+
+Your Journey will provide you with many hours of enjoyment and many
+hundreds of difficult decisions. But unlike other games you may have
+played, there are virtually no dead ends. Anything action you take
+will advance the story toward one of its many endings.  But
+to lead the party to its ultimate victory is a challenge worthy of
+only the bravest and most clever. 
+
+* Getting Started
+
+* Load the Game
+
+If this is your first time playing Journey, you should read the Reference
+Section at the end of this manual for loading instructions specific to your
+computer. Also, it would be prudent to make a backup copy of the disk(s)
+that came in your game package.
+
+* The Journey Screen
+
+When you have successfully loaded Journey, your screen will look something
+like this:
+
+<start screen>
+<the three major areas should be labelled A, B, and C>
+
+You will note that the Journey screen is divided into three distinct
+areas.
+
+A) The story of the Journey will appear here. Frequently, however, there is
+more to be told than can fit within this area. In that case, the word "MORE"
+will appear at the bottom and you can view the rest by pressing any key on
+your keyboard (or clicking your mouse.)
+
+B) You will glimpse the world of Journey through the handsome illustrations
+that appear here.
+
+C) All of your selections while playing Journey will be made in this area,
+which is itself divided into three sections, described below.
+
+* Selection Methods
+
+Selections can be made with your mouse, joystick, or keyboard. If you
+have two of these devices (e.g. a mouse and a keyboard), you can make
+selections with either of them or both.
+
+Mouse: Point at, then click on, your desired selection.
+
+Joystick: Move the joystick to highlight your desired selection, then
+press the joystick button.
+
+Keyboard: Use the arrow keys to highlight your desired selection, then
+press the RETURN or ENTER key.
+
+* The Initial Menu
+
+On the startup screen, five options are displayed in the lower left
+corner.
+
+Start: Sets you off on your Journey. 
+
+Background: Relates the events leading up to your Journey. If you are
+playing for the first time, it would be worthwhile to read this
+prologue before selecting "Start."
+
+Change Name: Allows you to personalize your Journey by renaming the
+narrator of the story from Tag to one of your own choosing.
+
+Help: Summarizes these instructions.
+
+Game: Displays a group of options that do not affect the story, but rather
+the play of the game (e.g. Saving your place, making a transcript, etc.)
+
+* Playing the Game
+
+After you have selected "Start", your screen should look something like
+this:
+
+<2nd screen>
+
+In playing Journey, you have the task of making decisions not only for
+your party of characters as a group, but as individuals as well.  As each
+decision is made, the story will move inexorably forward.
+
+Looking at the bottom portion of the screen, you will see that it is divided
+into three areas.
+
+A) The first column lists the "Party Commands," those actions which are
+taken by your entire party as a group.  Most often, this will involve
+moving from one place to another.  On the screen (above?,) "Proceed"
+would be used to continue down the road and "Enter" would be used to
+enter the provisioner's shop.
+
+B) The second column lists the members of your party.  When your Journey
+begins, there are four: Bergon, Praxix, Esher, and Tag (the narrator.)
+During the course of your Journey, characters may be added (by choice)
+and lost (rarely by choice); all such changes will be reflected here.
+
+C) To the right of the characters' names are those actions that the
+characters can take at any given moment.  On the screen (above?,) you
+will see that Bergon can get the advice of the group ("Get Advice"), Praxix
+can cast a spell ("Cast"), and Tag can drop things ("Drop") and check on what
+he's carrying ("Inventory.)  These options change frequently during play
+to reflect the circumstances of the story (e.g. Tag would have an option to
+"Take" something, if there were anything on the ground worth taking.)
+
+Many of the actions that can be taken require additional information
+(e.g. which spell to cast, which object to take, which legend to tell.)
+In this case, a list of possibilities will appear, as in the example
+(below?) in which Praxix is about to cast a spell.  Simply select
+your choice from the list, or select "[cancel]" to change your mind
+about taking that course of action.
+
+<bottom screen showing Cast options>
+
+*Note*
+The keyboard can also be used as a shortcut in making selections, by
+simply typing the first letter of your selection. However, the highlight
+bar must be in the Party Command area to choose a party command or in
+the Individual Command area to chose an individual command.  The spacebar
+can be used to quickly jump between these two areas. The option to
+"cancel" can be selected with your backspace key.
+
+* Hints - The Musings Option
+
+Your Journey will be long and arduous, and it is unlikely that you
+will see it through to a happy conclusion until you have played
+for some time. Do not fear: all of the obstacles and pitfalls you face
+can be overcome in a logical manner, yet some may baffle even the most
+sophisticated player.
+
+If you should reach an unsatisfactory ending, you will have the option
+of reading some of the narrator's "musings," providing thoughts
+made in hindsight about the decisions made during the Journey. Each "musing"
+refers to a particular place or event in the story, and you should refer
+to those for which you need for some additional guidance. Of course,
+rather than using these musings right away, it would be more enjoyable
+to first experiment with different courses of action.
+
+* The Game Option
+
+The "Game" option is always available as the last of the Party
+Commands, at the lower left of the screen.  Selecting this option displays
+a menu of control functions that have no direct effect upon the story, but
+rather upon the playing of the game.  The options are:
+
+Save: Allows you to make a "snapshot" of your position
+in the story (a bookmark, if you will) so that you may return to that
+precise spot in the story at a later time.  Unlike other games you
+may have played, there are virtually no dead ends in Journey, and
+therefore no need to "Save" your game frequently; indeed, you will
+probably enjoy the flow of the story more if you avoid using "Save"
+altogether during your first times through the story.
+
+The exact procedure for making a "Save" varies between computers, so
+you should check the Refernce Section for the correct procedure for
+your machine. 
+
+Restore: Use this option to return to a previously "Saved" position.
+As with "Save," the exact procedure will vary between computers.
+
+End Session: If you wish to end your play of the game, either by
+quitting ("Quit") or by starting over from the beginning ("Start Over",)
+select this option. Another menu will be displayed allowing you to
+choose between these two options.
+
+Controls: Causes the controls menu to be displayed.  The
+controls are:
+
+Script On: This allows you to use your printer to make a transcript
+of the story. You may wish to use this feature to aid your memory
+about events earlier in the story, or just to have a souvenir of
+your Journey.  If you select "Controls" while you are already
+making a transcript, this option will become "Script Off," and can
+be used to end your transcript.
+
+Refresh: This option refreshes the screen display, in the unlikely
+event that it should become garbled by a power glitch or other like
+nuisance.
+
+Version: This will display the release version of Journey as well
+as the serial number of your copy of the game. Please include this
+information in any call to Customer Service.
+
+Check Disk: This option performs a check on the contents of your game
+disk(s) to ensure that they are undamaged. If you suspect a problem
+with your disk, use this option to "verify" its contents. If the
+disk checks out "Ok," then the problem is either in your computer's
+hardware or is a bug in the game. 
+
+*Note*
+All of the Game Menu and Controls Menu options can be accessed
+with function keys (if your machine happens to have them.) The
+keys are defined as follows: F1 - Save; F2 - Restore; F3 - Start Over;
+F4 - Quit; F5 - Script on/off; F6 - Refresh; F7 - Version.  In
+the case of Start Over and Quit, it will be necessary to confirm
+your choice by hitting the same key again.
+
+* Tips for Enjoying Journey
+
+- Try to play as much as possible without using "Save" - remember,
+all puzzles can be solved logically and without resort to using
+"brute force."  If you become "stuck," refer to the musings option
+after reaching an ending.
+
+- As a convenience, you way wish to make "Saves" every so often in the
+story.  Certainly, it would be appropriate to make a "Save" each time
+you come before the Wizard Astrix.   
+
+- There are no "dead ends" in Journey; feel free to experiment and
+take chances.
+
+- Utilize the options available to you; if more than one character can
+take the same action (e.g. examining something,) do not assume that the
+result will be the same. 
+
+- If you are using a keyboard, remember the available shortcuts (spacebar
+to move between Party and Individual Commands, and using the first
+letter of choices to make a selection.)
+
+* We're Never Satisfied
+As with other games, except:  Attn: Dread Lord 
+
+* If You Have Technical Problems
+As with other games.
+
+* About the Author
+
+Marc Blank, a graduate of MIT and the Albert Einstein College of Medicine,
+is one of the original founders of Infocom. He co-authored the original
+mainframe version of Zork in 1977 at MIT, and went on to become one of
+the pioneers in the field of interactive fiction. At Infocom, he
+co-authored the Zork Trilogy and Enchanter, and was the sole author
+of Deadline, the first interactive mystery, and Border Zone, Infocom's
+first tale of intrigue. Marc considers Journey to be his second greatest
+departure from traditional interactive fiction, the first being his
+move to Southern California in 1986.
+
+Marc lives in the little town of Agua Dulce, California, with his
+wife, Cezanne, and a growing number of feline offspring.  With any
+luck, he's finished mowing his lawn and pulling weeds from the garden,
+and has happily gone back to work.
+
+* Copyright, etc.
+As with other games, except:
+Journey and Border Zone are trademarks of Infocom, Inc.  Zork, Enchanter,
+and Deadline are registered trademarks of Infocom, Inc.
